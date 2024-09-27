@@ -3,3 +3,5 @@
 config.h
 dwm
 *.o
+
+scripts/statusbar/temp
